@@ -5,7 +5,7 @@
 <!-- .slide -->
 
 ## Contact
-<table border="0">
+ <table border="0">
   <tr>
     <td width="70%">
       <h2>宋嘉港</h2>
@@ -18,7 +18,7 @@
       <img src="./assets/image/SongJiaGang.jpg" width="100%">      
     </td>
   </tr>
-</table>
+ </table>
 
 - Address
   - **Guangxi Normal University - No.15 Yucai Rd, Qixing District, Guilin City. - ChangSha, China**
