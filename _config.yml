@@ -4,38 +4,38 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   水野爱<br/>
   HPC<br/>
   田宫例四驱车<br/>
-  <a href="mailto:i@JiaGangSong.cn">
+  <a href="mailto:i@wu-kan.cn">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/JiaGangSong">
+  <a href="https://github.com/wu-kan">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/JiaGangSong">
+  <a href="https://codeforces.com/profile/WuK">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/JiaGangSong">
+  <a href="https://vjudge.net/user/WuK">
     <i class="fas fa-smile"></i>
   </a>
-  <a href="https://www.zhihu.com/people/JiaGangSong/activities">
+  <a href="https://www.zhihu.com/people/wu.kan/activities">
     <i class="fab fa-zhihu"></i>
   </a>
-  <iframe 
-  frameborder="no" 
-  border="0"
-  marginwidth="0" 
-  marginheight="0" 
-  width=298 
-  height=52 
-  src="//music.163.com/outchain/player?type=2&id=1397135223&auto=1&height=32">
-  </iframe>
-url: https://JiaGangSong.cn # 你的域名，例如 https://JiaGangSong.github.io
+  <iframe
+    src="//music.163.com/outchain/player?type=2&id=1454730043&auto=0&height=32"
+    width=100%
+    height=52
+    frameborder="no"
+    border="0"
+    marginwidth="0"
+    marginheight="0"
+  ></iframe>
+url: https://wu-kan.cn # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   - scope:
       path: "" # an empty string here means all files in the project
     values: # 以下配置项也可以在任意页面自定义
-      jekyll-theme-JiaGangSong: # 我的主题的自定义样式都在这个命名空间
+      jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         default:
           body:
             theme-base: theme-base-0d # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
@@ -431,20 +431,20 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
-                  2021- JiaGang Song
+                  2017-2021 WuK
                 </div>
               - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
                 <div>
                   <i class="fas fa-info-circle fa-fw"></i>
-                  <a href="">
-                    
+                  <a href="http://beian.miit.gov.cn">
+                    粤ICP备 20024947号
                   </a>
                 </div>
               - | # 公安网备信息
                 <div>
-                  <img src=""></img>
-                  <a href="">
-                    
+                  <img src="https://i.loli.net/2021/03/17/Y47tDZTrcy2xwRa.png" class="fa-fw"></img>
+                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
+                    皖公网安备 34070202000407号
                   </a>
                 </div>
             wordcount: # 全站字数统计
@@ -615,8 +615,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
-                var myname = "JiaGangSong";
-                var profile = "i@JiaGangSong.cn";
+                var myname = "WuK";
+                var profile = "i@wu-kan.cn";
                 var usage = "payment";
                 var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
