@@ -7,20 +7,20 @@
 ## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **Guangxi Normal University - No.15 Yucai Rd, Qixing District, Guilin City. - ChangSha, China**
 - Site
-  - **<https://wu-kan.cn>**
-- [Resume](https://wu-kan.github.io/resume/resume.pdf)
+  - **<https://JiaGangSong.cn>**
+- [Resume](https://JiaGangSong.github.io/resume/resume.pdf)
 
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 18574919704**
 - WeChat
-  - **Wu-\_-Kan**
+  - **wxid_a5xipeg3914e22**
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **[i[at]JiaGangSong.cn](mailto:i@JiaGangSong.cn)**
+  - **[songjg[at]stu.gxnu.edu.cn](mailto:songjg@stu.gxnu.edu.cn)**
 
 <!-- .slide -->
 
@@ -28,7 +28,7 @@
 
 <!-- .slide vertical=true -->
 
-School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
+School of Computer Science and Engineering,Guangxi Normal University, ChangSha
 
 - Master of Computer Science, Sept. 2021 - Jul. 2024 (expected)
   - Advised by [Prof. X. Zhang](https://xianweiz.github.io/) at [NSCC-GZ](http://www.nscc-gz.cn/index.html)
