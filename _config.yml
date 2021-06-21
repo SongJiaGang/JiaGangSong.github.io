@@ -4,19 +4,19 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   水野爱<br/>
   HPC<br/>
   田宫例四驱车<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="mailto:i@JiaGangSong.cn">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/JiaGangSong">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
+  <a href="https://codeforces.com/profile/JiaGangSong">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
+  <a href="https://vjudge.net/user/JiaGangSong">
     <i class="fas fa-smile"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
+  <a href="https://www.zhihu.com/people/JiaGangSong/activities">
     <i class="fab fa-zhihu"></i>
   </a>
   <iframe 
@@ -28,14 +28,14 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   height=52  
   src="//music.163.com/outchain/player?type=4&id=1397135223&auto=1&height=32">
   </iframe> 
-url: https://wu-kan.cn # 你的域名，例如 https://wu-kan.github.io
+url: https://JiaGangSong.cn # 你的域名，例如 https://JiaGangSong.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   - scope:
       path: "" # an empty string here means all files in the project
     values: # 以下配置项也可以在任意页面自定义
-      jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
+      jekyll-theme-JiaGangSong: # 我的主题的自定义样式都在这个命名空间
         default:
           body:
             theme-base: theme-base-0d # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
@@ -60,7 +60,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+#                 href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                img src="./assets/image/song.jpg" width="100%"
               />
               <link
                 rel="shortcut
