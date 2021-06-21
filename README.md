@@ -24,7 +24,6 @@
   - **Guangxi Normal University - No.15 Yucai Rd, Qixing District, Guilin City. - ChangSha, China**
 - Site
   - **<https://JiaGangSong.cn>**
-
 <!-- .slide vertical=true -->
 
 - Phone
