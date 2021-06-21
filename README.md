@@ -43,7 +43,7 @@
 
 School of Computer Science and Engineering,Guangxi Normal University, ChangSha
 
-- Master of Computer Science, Sept. 2021 - Jul. 2024 (expected)
+- Master of Computer Science, Sept. 2019 - Jul. 2021 (expected)
   - Advised by [Prof. X. Zhang](https://xianweiz.github.io/) at [NSCC-GZ](http://www.nscc-gz.cn/index.html)
 
 <!-- .slide vertical=true -->
