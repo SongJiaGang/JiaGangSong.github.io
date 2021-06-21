@@ -5,6 +5,20 @@
 <!-- .slide -->
 
 ## Contact
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>宋嘉港</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××广西师范大学</b></p>
+      <p><b>邮箱：1127690718@qq.com</b></p>
+      <p><b>地址：广西壮族自治区桂林市七星区育才路15号，邮编541004</b></p>
+    </td>
+    <td width="25%">
+      <img src="/SongJiaGang.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 - Address
   - **Guangxi Normal University - No.15 Yucai Rd, Qixing District, Guilin City. - ChangSha, China**
