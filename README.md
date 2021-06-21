@@ -8,14 +8,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p>宋嘉港</p>
+      <h2>宋嘉港</h2>
       <p><b>硕士研究生</b></p>
       <p><b>广西师范大学</b></p>
       <p><b>邮箱：1127690718@qq.com</b></p>
       <p><b>地址：广西壮族自治区桂林市七星区育才路15号，邮编541004</b></p>
     </td>
     <td width="25%">
-      <img src="/assets/image/SongJiaGang.jpg" width="100%">      
+      <img src="./assets/image/SongJiaGang.jpg" width="100%">      
     </td>
   </tr>
 </table>
