@@ -21,7 +21,7 @@
  </table>
 
 - Address
-  - **Guangxi Normal University - No.15 Yucai Rd, Qixing District, Guilin City. - ChangSha, China**
+  - **Guangxi Normal University - No.15 Yucai Rd, Qixing District, Guilin City. - GuiLing, China**
 - Site
   - **<https://JiaGangSong.cn>**
 - [Resume](https://wu-kan.github.io/resume/resume.pdf)
@@ -41,14 +41,14 @@
 
 <!-- .slide vertical=true -->
 
-School of Computer Science and Engineering,Guangxi Normal University, ChangSha
+School of Computer Science and Engineering,Guangxi Normal University, GuiLing
 
 - Master of Computer Science, Sept. 2019 - Jul. 2021 (expected)
-  - Advised by [Prof. X. Zhang](https://xianweiz.github.io/) at [NSCC-GZ](http://www.nscc-gz.cn/index.html)
+  - Advised by [Prof. Tianwei. Chun](https://github.com/hellloxiaotian) 
 
 <!-- .slide vertical=true -->
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021
+- Bachelor of Computer Science , Sept. 2015 - Jul. 2019
   - Principle of Supercomputer
   - Parallel and Distributed Computing
   - High Performance Computing
